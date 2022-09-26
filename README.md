@@ -19,11 +19,11 @@ Happy Hacking ... :)
 
 <h2>Join Us for more tool</h2>
 
-<a href="https://m.me/ntahsan.nayem"><img title="Messenger" src="https://img.shields.io/badge/Chat-Messenger-blue?style=flat&logo=messenger"></a>
+<a href="https://m.me/"><img title="Messenger" src="https://img.shields.io/badge/Chat-Messenger-blue?style=flat&logo=messenger"></a>
 
-<a href="https://fb.com/Noob.Hackrr71"><img title="Facebook" src="https://img.shields.io/badge/View-Facebook-blue?style=flat&logo=Facebook"></a>
+<a href="https://fb.com/"><img title="Facebook" src="https://img.shields.io/badge/View-Facebook-blue?style=flat&logo=Facebook"></a>
 
-<a href="https://github.com/Noob-Hacker71"><img title="Republic of Bangladesh" src="https://img.shields.io/badge/REPUBLIC%20OF-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=flat"></a>
+<a href="https://github.com/trhacknon"><img title="anonymous" src="https://img.shields.io/badge/ANONYMOUS-green?colorA=%23ff0000&colorB=%23017e40&style=flat"></a>
 
 <h2><i> LOVE WITH ATTITUDE  : </i></h2>
 
@@ -50,9 +50,9 @@ Happy Hacking ... :)
 
 <p>$ pkg install figlet -y </p>
 
-<p>$ git clone <b>https://github.com/Noob-Hacker71/Bruteforce-.git</b></p>
+<p>$ git clone <b>https://github.com/trhacknon/Bruteforce.git</b></p>
 
-<p>$ cd Bruteforce-</p>
+<p>$ cd Bruteforce</p>
 
 <p>$ python2 Bruteforce.py</p>
 
@@ -69,7 +69,7 @@ Happy Hacking ... :)
 
 <h2>CONTACT WITH US</h2>
 
-<h4><i><b><a href ="https://www.facebook.com/Noob.Hacker71/">Your Cyber Sarvent</a></b></i></h4>
+<h4><i><b><a href ="https://www.facebook.com//">anonymous red hat hacker</a></b></i></h4>
 
 </div>
 
