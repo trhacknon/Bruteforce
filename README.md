@@ -54,7 +54,7 @@ Happy Hacking ... :)
 
 <p>$ cd Bruteforce</p>
 
-<p>$ python2 Bruteforce.py</p>
+<p>$ python2 bruteforce.py</p>
 
 
 '''
