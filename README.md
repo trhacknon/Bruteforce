@@ -25,13 +25,13 @@ Happy Hacking ... :)
 
 <a href="https://github.com/trhacknon"><img title="anonymous" src="https://img.shields.io/badge/ANONYMOUS-green?colorA=%23ff0000&colorB=%23017e40&style=flat"></a>
 
-<h2><i> LOVE WITH ATTITUDE  : </i></h2>
+<h2><i> we are legion  : </i></h2>
 
 <li><i>JUST KEEP IT UP 🙃</li></i>
 
 <li><i>WORK FOR SUCCESS 😊</li></i>
 
-<li><i>LOVE MY MOM AND DAD 💞</li></i>
+<li><i>PRAY FOR UKRAINIAN'S 😢</li></i>
 
 <br>
 
@@ -73,4 +73,4 @@ Happy Hacking ... :)
 
 </div>
 
-<b>[Note] Allah Is Always Watching you</b>
+<b>[Note] Anonymous See you, dont forger that</b>
